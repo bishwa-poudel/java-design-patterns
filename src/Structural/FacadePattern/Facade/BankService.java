@@ -1,4 +1,9 @@
-package Structural.FacadePattern;
+package Structural.FacadePattern.Facade;
+
+import Structural.FacadePattern.ConcreteAccountTypes.Chequing;
+import Structural.FacadePattern.IAccount;
+import Structural.FacadePattern.ConcreteAccountTypes.Investment;
+import Structural.FacadePattern.ConcreteAccountTypes.Saving;
 
 import java.math.BigDecimal;
 import java.util.Hashtable;

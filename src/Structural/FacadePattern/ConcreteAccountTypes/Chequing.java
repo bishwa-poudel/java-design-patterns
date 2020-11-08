@@ -1,14 +1,16 @@
-package Structural.FacadePattern;
+package Structural.FacadePattern.ConcreteAccountTypes;
+
+import Structural.FacadePattern.IAccount;
 
 import java.math.BigDecimal;
 
 /**
  * @author Bishwa on 15/10/2020
  */
-public class Saving implements IAccount {
+public class Chequing implements IAccount {
     private BigDecimal initAmount;
 
-    public Saving(BigDecimal initAmount) {
+    public Chequing(BigDecimal initAmount) {
         this.initAmount = initAmount;
     }
 

@@ -1,4 +1,6 @@
-package Structural.FacadePattern;
+package Structural.FacadePattern.ConcreteAccountTypes;
+
+import Structural.FacadePattern.IAccount;
 
 import java.math.BigDecimal;
 

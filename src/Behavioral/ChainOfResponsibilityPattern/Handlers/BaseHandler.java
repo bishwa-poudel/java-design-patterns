@@ -1,4 +1,6 @@
-package Behavioral.ChainOfResponsibilityPattern;
+package Behavioral.ChainOfResponsibilityPattern.Handlers;
+
+import Behavioral.ChainOfResponsibilityPattern.IHandler;
 
 /**
  * @author Bishwa on 02/11/2020

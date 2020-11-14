@@ -1,4 +1,4 @@
-package Behavioral.MementoPattern;
+package Behavioral.MementoPattern.Memento;
 
 /**
  * @author Bishwa on 03/11/2020

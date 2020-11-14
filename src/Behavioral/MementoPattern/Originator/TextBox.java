@@ -1,4 +1,6 @@
-package Behavioral.MementoPattern;
+package Behavioral.MementoPattern.Originator;
+
+import Behavioral.MementoPattern.Memento.TextState;
 
 /**
  * @author Bishwa on 03/11/2020

@@ -1,4 +1,7 @@
-package Behavioral.MementoPattern;
+package Behavioral.MementoPattern.Caretaker;
+
+import Behavioral.MementoPattern.Memento.TextState;
+import Behavioral.MementoPattern.Originator.TextBox;
 
 /**
  * @author Bishwa on 03/11/2020
